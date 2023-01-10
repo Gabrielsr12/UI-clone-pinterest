@@ -2,8 +2,11 @@
 UI Clone - Pinterest (Homepage)
 </h1>
 
-<p align="center"><a href="https://pinterest.com">Pinterest Homepage</a> UI clone for study purposes.</p>
+<p align="center"><a href="https://pinterest.com">Pinterest Homepage</a> UI clone for study purposes. &#128214;</p>
 
+<p align="center"><a href="https://gabrielsr12.github.io/UI-clone-pinterest/">Click here</a> to check the final result. &#10004;</p> 
+
+<p align="center">&#128204; Ps. the idea of the colors and images are my own. &#128204;</p>
 
 
 
